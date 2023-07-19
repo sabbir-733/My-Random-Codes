@@ -1,0 +1,6 @@
+print("hello ! ")
+print(len(input("What is your name ? ")))
+print("Welcome !")
+First_name = input("Where you grow up ? ")
+second_name = input("What is your pet name ? ")
+print("Your band name could be : " + First_name + " " + second_name)
